@@ -18,7 +18,7 @@ const getQuestionCorrectAnswer = () => {
   const operator = operators[getRandomNumber(0, 3)];
 
   const question = `${number1} ${operator} ${number2}`;
-  let CorrectAnswer = String(calc(number1, number2, operator));
+  const CorrectAnswer = String(calc(number1, number2, operator));
 
   return [question, CorrectAnswer];
 };
