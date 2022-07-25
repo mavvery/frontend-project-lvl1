@@ -28,6 +28,10 @@ brain-prime
 brain-progression
 ```
 
+### Игра ""Проверка на чётность". brain-even
+
+[![asciicast](https://asciinema.org/a/EXExYoV0pGyLuRJ609I7pFo1I.svg)](https://asciinema.org/a/EXExYoV0pGyLuRJ609I7pFo1I)
+
 ### Игра "Калькулятор". brain-calc
 
 [![asciicast](https://asciinema.org/a/qtJML7cefu44a1JJ8H4eiV8KI.svg)](https://asciinema.org/a/qtJML7cefu44a1JJ8H4eiV8KI)
